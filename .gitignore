@@ -1,1 +1,28 @@
+# Ignore Conda environment folders if created inside project (not recommended)
+learning/
+
+# Ignore environment.yml lock files (optional)
+*.conda-lock
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+*.env
+
+# VSCode settings (if you use VSCode)
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
 
