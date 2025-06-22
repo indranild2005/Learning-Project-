@@ -21,7 +21,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name="Learning PROJECT",
+    name="LearningProject",
     version="0.0.1",
     author="indranil",
     author_email="dindranil250@gmail.com",
